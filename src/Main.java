@@ -12,5 +12,11 @@ public class Main {
 
         Rectangle rectangle1 = new Rectangle(50, 60);
         rectangle1.showPerimetr();
+
+
+        Rectangle rectangle2 = new Rectangle(1000, 1000);
+        rectangle2.showPerimetr();
+
+
     }
 }
