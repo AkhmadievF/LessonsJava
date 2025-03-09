@@ -7,7 +7,7 @@ public class Main {
         Triangle triangle = new Triangle(5, 6, 8);
         triangle.showPerimetr();
 
-        Rectangle rectangle = new Rectangle(100, 100);
+        Rectangle rectangle = new Rectangle(200, 200);
         rectangle.showPerimetr();
     }
 }
