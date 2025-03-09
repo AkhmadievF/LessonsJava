@@ -9,5 +9,8 @@ public class Main {
 
         Rectangle rectangle = new Rectangle(200, 200);
         rectangle.showPerimetr();
+
+        Rectangle rectangle1 = new Rectangle(50, 60);
+        rectangle1.showPerimetr();
     }
 }
