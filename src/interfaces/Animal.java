@@ -1,5 +1,7 @@
 package interfaces;
 
-public abstract class Animal {
-    public abstract void eat();
+public class Animal {
+    public void eat(){
+        System.out.println("Животное бегит");
+    };
 }
